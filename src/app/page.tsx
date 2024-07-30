@@ -2,6 +2,7 @@ import React from 'react'
 
 /**
  * Development branch @version 0.1.0
+ * Front-end branch @version 0.1.1.1
  * Component that renders a window with general features.
  * @returns {JSX.Element} Home component.
  */
